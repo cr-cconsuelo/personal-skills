@@ -1,0 +1,13 @@
+# Personal/private data guard — applies to every skill in this repo.
+# Journal entries, generated reports, and per-user config must never be pushed,
+# even though this repo is public. Anchored to each skill's ROOT so source dirs
+# like scripts/lib/reports are not affected.
+/skills/*/data/
+/skills/*/reports/
+/skills/*/config.json
+/config.json
+
+# OS / editor noise
+.DS_Store
+*.log
+node_modules/

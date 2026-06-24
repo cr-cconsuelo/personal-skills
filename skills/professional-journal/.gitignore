@@ -1,0 +1,6 @@
+# Personal journal data — NEVER commit. Private to each user.
+# Anchored (leading slash) so only the skill-root data/reports are ignored,
+# not source dirs like scripts/lib/reports.
+/data/
+/reports/
+/config.json

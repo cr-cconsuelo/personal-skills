@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "githubLogin": null,
+    "jiraAccountId": null,
+    "email": null,
+    "displayName": null
+  },
+  "github": {
+    "token": null
+  },
+  "jira": {
+    "baseUrl": "https://your-domain.atlassian.net",
+    "email": "you@company.com",
+    "apiToken": null
+  },
+  "confluence": {
+    "baseUrl": "https://your-domain.atlassian.net",
+    "email": "you@company.com",
+    "apiToken": null
+  },
+  "slack": {
+    "token": null,
+    "userId": null
+  },
+  "testrail": {
+    "baseUrl": "https://your-domain.testrail.io",
+    "email": "you@company.com",
+    "apiKey": null,
+    "projectId": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "jira": {
+    "cloudId": "your-org.atlassian.net",
+    "projectKey": "PROJ",
+    "storyPointsField": "customfield_10016",
+    "defaultParentEpic": "",
+    "summaryStyle": "imperative verb, no ticket-key prefix",
+    "descriptionFormat": "markdown"
+  }
+}

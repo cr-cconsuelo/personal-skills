@@ -1,0 +1,2 @@
+# config.json holds per-user / per-org Jira settings — never commit it.
+/config.json

@@ -11,6 +11,7 @@ Teammates are welcome to use these and to add their own.
 |---|---|
 | [`professional-journal`](./skills/professional-journal) | Records your work (Jira/GitHub/Slack/Confluence/TestRail + manual notes) into a private local journal and generates standup / retro / planning / performance-review / promotion-case reports. |
 | [`context-to-ticket`](./skills/context-to-ticket) | Turns an unstructured conversation (Slack thread, discussion, meeting notes, or manual input) into a single well-structured Jira ticket — synopsis, technical approach, out-of-scope, and acceptance criteria — then creates and verifies it. |
+| [`verifying-cx-web-in-browser`](./skills/verifying-cx-web-in-browser) | Drives a real logged-in Chromium session against a cx-web branch/stage/prod environment to verify a PR by hand: captures network requests, flips dark feature flags, mocks missing prerequisites, and probes backend behavior without ever handling credentials. |
 
 ## Install
 
